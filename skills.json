@@ -1,0 +1,26 @@
+{ 	
+	"Skills": {
+		"Personal": {
+			"Hard skills":{
+				"Postman": true,
+				"SQL": true,
+                                "Testing theory": { "Web": true,
+						    "Mobile": "not enough"
+						}
+                                "Devtools": true,
+                                "Packet sniffing": {
+						"Wireshark": true,
+						"Charles": true
+						} 
+                                "Git/Gitbash/Terminal": true,
+                                "Python basics": true
+				}
+
+
+			}
+
+
+		}
+
+
+}
